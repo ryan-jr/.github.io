@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Economist. Techie. Geek.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Lover of all things tech and passionate about the environment and civil service.  Research and information addict who enjoys reading, coding, infosec, and helping/empowering others.   
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rrjay90@gmail.com](rrjay90@gmail.com)
