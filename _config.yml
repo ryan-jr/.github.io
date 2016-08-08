@@ -53,7 +53,7 @@ baseurl: ""
 #
 
 #COMMENTED OUT FOR POTENTIAL CONFIG ISSUES
-permalink: /:title/
+#permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -71,7 +71,7 @@ kramdown:
 # Set the Sass partials directory, as we're using @imports
 #COMMENTED OUT FOR POTENTIAL CONFIG ISSUES
 #sass:
-#  style: :expanded 
+# style: :expanded 
   #You might prefer to minify using :compressed
 
 # Use the following plug-ins
