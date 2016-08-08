@@ -18,7 +18,7 @@ In the /wordpressdotcom/ page there was a link to an executable [tool for Window
 
 I take all of the posts that were now converted into proper Jekyll/Pages format and put them in the _posts folder on my local machine (since I had done a clone to put things on to my machine locally), I set up the git remote so that it will point to my pages repository [instructions on setting up a remote](https://help.github.com/articles/adding-a-remote/), and push the changes.  
 
-##Error
+## Error
 
 It's at this point that I started getting a small torrent of emails from Github informing me 
 >The page build failed with the following error:
