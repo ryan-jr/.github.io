@@ -6,7 +6,7 @@ title: Back to our Regularly Scheduled Program
 So after the better part of a day in wrestling with Jekyll, WordPress, and tempermental database files, I've finally transferred stuff over from my original blog at WordPress.  I love the features that WordPress has for analytics as well as its dashboard, but I love the 'closer to the metal' and more utilitarian feel that the Github Pages/Jekyll combo provides.  I'll likely still post over to WordPress to keep it active and have more of a web presence, but like I said, I love the feel of Github Pages and Jekyll.  
 
 
-###So Why Did it Take so Long? 
+### So Why Did it Take so Long? 
 
 In transferring stuff over, I thought it would be a quick and easy 'one click' port over [Jekyll One Click Exporter](https://wordpress.org/plugins/jekyll-exporter/).  Unfortunatley that assumes that you have WordPress installed, which 1.  I didn't know you could do since I always used it as a web app, and 2.  I simply exported it from the settings page and downloaded everything as a ZIP file, opened it up and put it in a file as an XML.  
 
