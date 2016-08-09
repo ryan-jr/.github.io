@@ -31,3 +31,8 @@ Reddit is one of my favorite resources for questions and learning, and this is a
 
 I'm sure there's other stuff I've found, but that's what sticks out for now.  
 
+Edit 08-09-2016:
+I ended up finding my old TI-83 Plus, bringing back old nerd chills, and love of all things geek.  
+
+
+
