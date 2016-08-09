@@ -7,7 +7,7 @@ comments: true
 categories: [Uncategorized]
 ---
 
-### [Spark Branding/Design] (http://stickquarterly.com/gary/)
+### [Spark Branding/Design](http://stickquarterly.com/gary/)
 This one comes from the realm of politics.  Basically Spark mocked up a branding/marketing/design strategy for the Gary Johnson campaign a couple of months ago, the campaign used it (poorly) without paying or crediting Spark, so they decided to call out the Johnson campaign and ask that Johnson stop by to talk.  
 
 Overall, I think it's probably a good idea to pay your designers, but also it shows the power of branding/design.  
@@ -23,7 +23,7 @@ TL;DR:
 	*This is because face to face meetings are often resource intensive for all parties involved.
 3.  Listen to podcasts/audiobooks while you exercise.  
 
-### [Reddit.com/r/learnprogramming-What are Goals a Beginning Self-Taught Developer Should Have?](https://www.reddit.com/r/learnprogramming/comments/4vr2of/what_are_some_goals_a_beginning_selftaught/?sort=top)
+### [/r/learnprogramming-What are Goals a Beginning Self-Taught Developer Should Have?](https://www.reddit.com/r/learnprogramming/comments/4vr2of/what_are_some_goals_a_beginning_selftaught/?sort=top)
 Reddit is one of my favorite resources for questions and learning, and this is a good example as to why.  Feedback and input from other people who have been there is always valuable.  In short:
 *Learn how to learn
 *Persistance > Knowledge, and smaller/more often is more effective than doing it all at once
