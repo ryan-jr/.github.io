@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: post
 title: Oh, the Places You'll Go
