@@ -12,12 +12,12 @@ So as of late I feel like I've been concentrating so much on Rails, that I've le
 It feels strange on a coding journey, going from knowing something, to feeling like you know nothing, to acomplishing some (minor) things.  
 
 
-'''ruby
+
+```ruby
 #initalize the counter
 num = 0
 
 #creating the loop and if statements for the math
-#
 while num <= 100
   if num == 0
     puts "num is 0, not divisible by 3 or 5"
@@ -36,9 +36,12 @@ while num <= 100
 
   num += 1
 end
-'''
+```
+
 
 So far on my coding journey I feel like I'm on the downhill part of the following image:
+
+
 [Coding Confidence vs Competence, shows a graph with two peaks and a valley in the middle with Confidence on the Y axis and Competence on the X axis.  From left to right the labels on the X axis are: "hand holding honeymoon" (graph origin), "cliff of confusion" (after the graphs first 'peak' and heading into the valley), "desert of despair" (at the lowest point of the graph in the middle), "upswing of awesome" (coming out of the low point on the graph and the graph is increasing again), "Job Ready" (at the far right end at the top of the second peak)](http://s3.amazonaws.com/viking_education/web_development/blog/coding_is_hard_confidence_competence.png)
 
 It's nice to have something to look forward to and know that my skills will only improve.  
