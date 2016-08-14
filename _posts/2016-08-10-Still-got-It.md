@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Still got It
-date: 2016-10-08 08:36
+date: 2016-08-10 08:36
 author: techenomics1
 comments: true
 categories: [Uncategorized]
