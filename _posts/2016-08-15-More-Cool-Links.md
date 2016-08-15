@@ -23,6 +23,7 @@ Todd Brison brings a HUGE secret in how to be engaged/intelligent in a fast pace
 
 
 ### Using the 5/25 Rule to learn to say "No"
+
 This article was incredibly useful to me to help me get a 'big picture' handle on the direction of my life and where I want it to go overall.  The article is a series of anecdotes/personal narratives about how saying 'yes' consistently can cost someone, not just in terms of time, but also financially and in terms of relationships.  The real wisdom of the article comes from the suggestion to use the Warren Buffet method of listing out/writing out the top 25 things someone wants to do with their life.  
 
 Then take the top 5, and never look at the bottom 20 again.  
@@ -32,14 +33,23 @@ This method of prioritization helped me clear up and focus on what I wanted afte
 You can read the full article [here](https://medium.com/the-mission/using-the-5-25-rule-to-learn-to-say-no-c84164aa9dd6#.490733ub9)
 
 ### The Steak Dinner Clause
+
 Ryan Holmes tells a great business story about the value of comprimise and how it can help everyone involved.  The crux of the story/moral of the story is that it is still possible to use what seems like a losing position to leverage more long term successes.  
 You can read the full story [here](https://medium.com/@invoker/how-to-use-the-steak-clause-to-win-your-next-negotiation-55b4dafbea94#.xewspxo7r)
 
 ### Learning Smart, Not Hard
+
 [This](https://medium.com/@appendTo/learn-smart-not-hard-applying-learning-research-to-learning-programming-b42ff9bb863a?mc_cid=2cf55638c0&mc_eid=1de4a643d0#.wpyopj21z) post from Append-To offers some good insight in regards to approaching learning a new subject(not just coding).  The key takeaways are that spaced repetition(especially small bits at a time as opposed to cramming) and self testing are the most effective with interleaving(different practice methods), self-explanation, and elaborate interrogation/questioning of the subject matter being a close second.  
 
 ### Randy Pausch
 The following lectures from Randy Pausch of Carnegie Mellon CS Department fame, illustrate the power of prioritization and time management, and have been really effective in guiding me.  
 [Lecture 1: Last Lecture-Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
+
 [Lecture 2: Time Management](https://www.youtube.com/watch?v=oTugjssqOT0)
+
+
+### Must Know Web Development
+
+[This]https://www.youtube.com/watch?v=sBzRwzY7G-k) video from LearnCode Academy more than any other really helped me conceptualize and fit together what I've been learning from The Odin Project, and also does a great job of where one might want to go after learning certain languages, frameworks, etc...  They also have some really great playlists/series on their Youtube channel as well.  
+
 
