@@ -50,6 +50,6 @@ The following lectures from Randy Pausch of Carnegie Mellon CS Department fame, 
 
 ### Must Know Web Development
 
-[This]https://www.youtube.com/watch?v=sBzRwzY7G-k) video from LearnCode Academy more than any other really helped me conceptualize and fit together what I've been learning from The Odin Project, and also does a great job of where one might want to go after learning certain languages, frameworks, etc...  They also have some really great playlists/series on their Youtube channel as well.  
+[This](https://www.youtube.com/watch?v=sBzRwzY7G-k) video from LearnCode Academy more than any other really helped me conceptualize and fit together what I've been learning from The Odin Project, and also does a great job of where one might want to go after learning certain languages, frameworks, etc...  They also have some really great playlists/series on their Youtube channel as well.  
 
 
