@@ -16,7 +16,11 @@ The Joy of Coding Bundle from the other day on HumbleBundle.com was wonderful, b
 
 # Learning Git
 So after Egghead.io's course on how to contribute to an open source project, I was still confused and wanted more practice with Git.  Luckily the WebDev community has TONS of resources that I was able to find pretty quickly:
+
 * [Atlassian](https://www.atlassian.com/git/tutorials/what-is-git/performance)
+
 * [Reddit](https://www.reddit.com/r/learnprogramming/comments/37zgzt/the_very_basic_guide_to_git_and_github_for/)
+
 * [js.org](http://learngitbranching.js.org/)
+
 * [github](https://try.github.io/levels/1/challenges/1)
