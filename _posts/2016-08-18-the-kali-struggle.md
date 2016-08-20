@@ -13,3 +13,4 @@ So about noon today I picked up a new machine fully wanting to install Kali Linu
 Well it turns out that the GRUB bootloader doesn't recognize/play well with windows 10 and would only recognize/run Kali.  Kali also did not install WLAN drivers, so I was pretty stuck in trying to troubleshoot things.  After about 4-5 hours of trying to fix the bootloader and downloading network drivers I switched the BIOS to boot to windows and downloaded and installed Ubuntu which is has been working fine for the past few hours.  
 
 So that's been my day. 
+
