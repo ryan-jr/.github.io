@@ -11,7 +11,8 @@ Today has mostly been spent figuring out rails and some other stuff, but mostly 
 
 
 Learning materials for today:
-# Humdle Hacker Bundle 
+
+# Humdle Hacker Bundle
 The Joy of Coding Bundle from the other day on HumbleBundle.com was wonderful, but I also found out about some of the books from this one as well, and they come fairly well recommended.  [This](http://www.computerworld.com/article/3061931/security/the-humble-hacker-s-book-bundle.html) from computer world does a solid job explaining what's in it, but I can speak from experience that Automate the Boring Stuff and No Starch Press as a publishing house is really good.  
 
 # Learning Git
