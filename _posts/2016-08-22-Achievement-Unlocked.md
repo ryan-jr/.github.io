@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Achievement Unlocked: First Deployment!
+title: Achievement Unlocked
 date: 2016-08-22 00:35
 author: techenomics1
 comments: true
 categories: [Uncategorized]
 ---
+
 # Achievement Unlocked
 
 So I was wanting to do something else productive with the Linux/Ubuntu install that I have, and was going through and reinstalling everything when I noticed that railsbridge had a 'Deploy app to Heroku' section.
