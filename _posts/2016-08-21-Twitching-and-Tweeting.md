@@ -24,3 +24,6 @@ One of the other resources that I came across that I found through Free Code Cam
 *[Programming, with a focus on game development](https://www.twitch.tv/directory/game/Creative/gamedev)
 
 Overall, some really good stuff that I'm happy that I found.
+
+Edit:
+This is also a SUPER good resource on reddit.com [/r/web_design](https://www.reddit.com/r/web_design/wiki/faq)
