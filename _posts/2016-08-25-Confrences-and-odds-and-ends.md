@@ -62,13 +62,12 @@ Basically the file generates the filename, timestamp, and datestamp in the way t
 
 
 
+### Edit:
 
+[Sentdex is always good for learning Python](https://www.youtube.com/user/sentdex)
 
+and
 
+Eli the Computer Guy is good for all kinds of [stuff](https://www.youtube.com/user/elithecomputerguy)
 
-
-
-
-
-
-
+As found on [Reddit](https://www.reddit.com/r/learnprogramming/comments/4zhgmq/what_are_some_programmingrelated_yt_channels_to/)
