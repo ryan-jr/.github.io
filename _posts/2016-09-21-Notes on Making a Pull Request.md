@@ -73,3 +73,14 @@ Now you need to click on the (currently green) button at the bottom that says "S
 
 From here the maintainer will either add comments, merge your request, or (in very rare cases), reject the request.  
 
+9.  Clean up 
+
+You can choose to remove/delete the branch that you worked on so that your repo doesn't become full with a ton of forked/branched repos.  You also want to make sure that you're back on your main repo/master branch(or whatever branch you were working on before with):
+
+> git checkout master 
+
+NOTE: git checkout master is an example you may have a different branch name that you want to change to.  
+
+We use the git checkout command because otherwise we may commit changes that we weren't intending.  
+
+
