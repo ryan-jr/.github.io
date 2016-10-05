@@ -8,7 +8,7 @@ categories: [Uncategorized]
 ---
 
 
-Ok, so I did a test pull request because I wanted to know more about it and how it worked since the biggest thing holding me back right now is actaully implementing a pull request.  [This Page](https://yangsu.github.io/pull-request-tutorial/) was immensely helpful in understanding what a pull request is, how it works, why it matters, and how to implement a pull request(PR).  
+Ok, so I did a test pull request because I wanted to know more about it and how it worked since the biggest thing holding me back right now is actaully implementing a pull request.  [This Page](https://yangsu.github.io/pull-request-tutorial/) was immensely helpful in understanding what a pull request is, how it works, why it matters, and how to implement a pull request(PR).  NOTE: This assumes that you know the basics of Git/Github, if you're still have questions on those/want to get more comfortable with them I would suggest [This tutorial from GitHub](https://try.github.io/levels/1/challenges/1) site which is a nice and short 15 minute tutorial/walkthrough.  [These](https://help.github.com/categories/bootcamp/) articles from GitHub also cover a TON of other stuff from setting up a git/github repo to a whole glossary.  
 
 NOTE: This post will deal with a PR from a branch within a repository, usually most projects will have you implement a pull request from a forked repository.  
 
