@@ -16,7 +16,7 @@ So lately I've been getting back into [CodeFights](https://codefights.com) which
 * Find the number of people occupying a theatre (assuming all seats are filled) from a given position, given columns, rows, and seats
 * Figure out the number of widgets each person can get if they can get no more than any other person, given the number of people and number of widgets
 * Figured out the largest number that can be created given the number of digits in that number.  
-
+* Implemented an RPG leveling verification system
 
 And all have these have just been the first stage/world.  Needless to say its been fun streching my brain and figuring stuff out.  I've also been working on a hangman game for The Odin Project, because it seems like an interesting way to combine skills and make things work.  
 
