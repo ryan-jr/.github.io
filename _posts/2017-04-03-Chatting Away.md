@@ -14,6 +14,10 @@ This taught me a couple of important lessons, or rather reinforced some key less
 
 2.  Test along the way/after each step/module/method/new feature.  
 
+3.  Having clear/simple method names and variable names goes a long way.
+
+4.  Having scanners/input(s) grouped together with the requests/print statements for information is a good thing too.
+
 Those two, along with planning/research seem to be a big part of programming for me.  
 
 Another really cool article I came across was on writing your own [language](https://medium.freecodecamp.com/the-programming-language-pipeline-91d3f449c919).  That's something that I'd like to work up to, but will probably put on the back burner for now.  
