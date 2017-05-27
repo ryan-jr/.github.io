@@ -1,7 +1,7 @@
 ---
 layout: post
-title: cool resources
-date: 2017-05-22 23:17
+title: Finding cool stuff
+date: 2017-05-26 23:40
 author: techenomics1
 comments: true
 categories: [Uncategorized]
