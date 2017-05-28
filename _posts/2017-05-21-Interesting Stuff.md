@@ -6,9 +6,9 @@ author: techenomics1
 comments: true
 categories: [Uncategorized]
 ---
+ 
 
-
-So there have been som interesting problems that I've been tackling lately, one of the toughest was solving the algorithim for writing a method that would take an array/list of numbers in a set order, and determine if that array was increasing, AND if that array could still be increasing if no more than one element was removed.  For example:
+So there have been som interesting problems that I've been tackling lately, one of the toughest was solving the algorithim for writing a method that would take an array/list of numbers in a set order, and determine if that array was increasing,   AND if that array could still be increasing if no more than one element was removed.  For example:
 
 ```
 
