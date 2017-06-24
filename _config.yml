@@ -88,8 +88,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-<<<<<<< HEAD
-=======
-
-theme: jekyll-theme-dinky
->>>>>>> ef02527fa9783d39adfc7ef12fd6332db55d0aba
