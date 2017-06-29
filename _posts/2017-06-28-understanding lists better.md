@@ -23,3 +23,4 @@ functionality:
 
 The above for me makes a TON more sense in understanding what a list is and how it operates.  This in conjuction with the book by Lewis and Chase (Java software structures 3rd edition) does a TON in helping my understanding of data structures (especially ordered, unordered, and indexed lists).  It helps me realize that an array is an indexed list and that stacks and queues aren't (usually) lists by default because they are LIFO and FIFO respectively, although stacks and queues CAN have removal methods implemented.  
 
+This also helps me realize that sometimes a summary (or a powerpoint) works a lot better at explaining/breaking things down than a book or even a page of text.  
