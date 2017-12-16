@@ -1,4 +1,10 @@
-### 2017-12-14 18:34, So I guess I'm contributing to OS now?  
-I just wrote an update for some docs for pytest comparing unittest2 and pytest and I'm waiting for feedback.  Looks like we'll see. 
-ECHO is off.
-### 2017-12-14 20:00, Pong is now in a partially working state...next up: Debugging and figuring out why   
+2017
+====
+
+December
+--------
+
+### 2017-12-15 09:00, When to use try/except statements. 
+
+Camp 1 says: Use them for exceptional cases Camp 2 says: Use them when you expect errors to occur, but that 2nd camp drawn to its extreme conclusion is to always use try/except statments.  Trying to be pythonic, I'll likely go with camp 1 for now.
+ 
