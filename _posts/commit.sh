@@ -5,4 +5,4 @@ git add .
 git commit -m "Adding journal entries from today"
 
 # push
-git push origin master
+git push origin master -f
