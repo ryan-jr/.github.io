@@ -1,1 +1,1 @@
-### 2017-12-16 21:58, Today I learned how happy I was to see a full/complete chess board and that graphs aren't that bad once you get down to it.   
+### 2017-12-17 10:48, Missing a number, can sometimes cause you to debug for an hour...not that I would know.   
