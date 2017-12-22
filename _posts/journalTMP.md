@@ -1,11 +1,1 @@
-### 2017-12-20 20:29, Ok that is awesome, I can slice a dictiionary value as a list...that seems unintuitive to me, but it worked...Ok, let's go.  
-ECHO is off.
-### 2017-12-20 20:37, Alright, I've got the comparision working correctly...now just for the rest of it.  
-ECHO is off.
-### 2017-12-20 20:50, This very well might be the hackiest and tackiest thing I've done...  
-ECHO is off.
-### 2017-12-20 22:22, Holy crap I did it...I just completed my first r/dailyprogrammer intermediate challenge...I can actually do this  
-ECHO is off.
-### 2017-12-20 22:42, Today was a rough day in terms of work and realizing the breach that I'm heading into but coming home and getting this challenge done after 6+ hours of work, certainly made me feel better.  
-It's hacky, and maybe a little tacky, but with enough time I got it done. 
-ECHO is off.
+### 2017-12-21 22:38, Sometimes trying to figure out math sequences/equations from Wikipedia is downright confusing   
