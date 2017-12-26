@@ -1,3 +1,0 @@
-### 2017-12-24 09:17, I'm wondering why complex is a built in python function, is it because python was geared towards the scientific community/math community?  
-I'm also trying to find use cases for any/all as built in functions 
-ECHO is off.
