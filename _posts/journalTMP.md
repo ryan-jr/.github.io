@@ -1,1 +1,3 @@
-### 2017-12-28 23:40, I don't know how much I buy the idea of the "effective engineer" because a lot of it smacks of self help/tony robins tone/talk https://news.ycombinator.com/item?id=16022916 , but I found getting consulting leads, fairly helpful https://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/ and some more nuance was provided in the HN comments.   
+### 2017-12-28 23:40, I don't know how much I buy the idea of the "effective engineer" because a lot of it smacks of self help/tony robins tone/talk https://news.ycombinator.com/item?id=16022916 , but I found getting consulting leads, fairly helpful https://www.gkogan.co/blog/how-i-learned-to-get-consulting-leads/ and some more nuance was provided in the HN comments.  
+ECHO is off.
+### 2017-12-28 23:56, OK, doing a quick ceaser cipher in about 15 minutes was pretty cool, especically since it used to take me an hour or so to figure out, and I would use LONG lists...   
