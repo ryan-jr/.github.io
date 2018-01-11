@@ -1,9 +1,1 @@
-### 2018-01-08 00:00, The life of programming: Everything works  
-Wait, I changed one thing...NOTHING WORKS??? 
-ECHO is off.
-### 2018-01-08 12:09, hello regex my old friend  
-ECHO is off.
-### 2018-01-08 17:21, arrrrggghhhh my regex only covers 100% of valid US PTN cases, but does NOT cover cases such as 123:4567890 or 123/456-6789...blargh.  
-Everything else checks out but those two, and I've been trying to write the regex to cover the last two for an hour now. 
-ECHO is off.
-### 2018-01-08 20:28, Ok, the valid PTNs was messier than I wanted it to be, I ended up having to do a find and replace on the strings in order to force a no match on the regex.   
+### 2018-01-10 19:39, Recursion is still kinda weird/out there, and researching creating your own language is fun.   
