@@ -1,3 +1,0 @@
-### 2018-01-17 20:46, Alright, so I think I figured out .gitignore (s), but now I have 20+ commits lolololol another day, another time breaking stuff and figuring it out.  
-1.  You can force add things in the .gitignore with -f and 2.  You can't retroactively add things to the .gitignore when they're already being tracked, you have to remove those files and -rm the tracking and then do the gitignore. 
-ECHO is off.
