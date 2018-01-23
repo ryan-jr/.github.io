@@ -1,3 +1,0 @@
-### 2018-01-21 22:17, Some days you try a lot of stuff and don't get it right, today was one of those days.  
-Ah well, there's always tomorrow. 
-ECHO is off.
