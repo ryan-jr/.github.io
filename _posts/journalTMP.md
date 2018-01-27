@@ -1,3 +1,0 @@
-### 2018-01-25 12:10, YES  
-I FINALY SOLVED IT//www.reddit.com/r/dailyprogrammer/comments/3bzipa/20150703_challenge_221_hard_poetry_in_a_haystack/  It only took me 4 days at about 4 hours a day, but I solved it 
-ECHO is off.
