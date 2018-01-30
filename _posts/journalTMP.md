@@ -1,1 +1,1 @@
-### 2018-01-28 22:16, Horray for that feeling of solving a problem after a long time of trying at it.   
+### 2018-01-29 23:23, Getting emails from metors and finding awesome resources online is a great feeling.   
