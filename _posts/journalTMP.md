@@ -1,1 +1,3 @@
-### 2018-01-29 23:23, Getting emails from metors and finding awesome resources online is a great feeling.   
+### 2018-01-30 18:03, Did I actually find a possible mentor???  
+Stay tuned 
+ECHO is off.
