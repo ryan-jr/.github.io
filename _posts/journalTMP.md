@@ -1,6 +1,1 @@
-### 2018-02-01 13:00, Now let's write the aff....  
-ECHO is off.
-### 2018-02-01 21:14, I'm having a brick wall when it comes to deconstructing this blackjack project.  
-I have everything I want/need but I want to break parts of it down into smaller functions, but don't currently see a reasonable way to do that. 
-ECHO is off.
-### 2018-02-01 22:31, Who knew, updating one variable can make ALL the difference   
+### 2018-02-02 14:48, Now I'm finally figuring out the joy of refactoring...it feels nice making a program better.   
