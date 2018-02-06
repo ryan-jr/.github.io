@@ -1,3 +1,1 @@
-### 2018-02-04 09:00, Installed ubuntu on Windows, watched an AI class, cleaned up, got laundry done, worked on a good portion of my letter generator.  
-Things I did not get done: buy a charger for my razor. 
-ECHO is off.
+### 2018-02-05 18:43, With this letter generator I'm certainly learning that perfect is the enemy of good.   
