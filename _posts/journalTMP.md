@@ -1,1 +1,1 @@
-### 2018-02-07 22:44, One of the things that still drives me is the OODA loop (Observe, Orient, Direct, Act), I'm finding it to be a simple yet effective approach to software development at this point.   
+### 2018-02-08 17:50, I have no idea what I'm doing dog meme 
