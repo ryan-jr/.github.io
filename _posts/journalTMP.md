@@ -1,1 +1,1 @@
-### 2018-02-18 19:37, Learning about P, NP, and NP complete problems today along with greedy algorithms feels very intellectually satisfying in a way that I haven't felt in a while.   
+### 2018-02-19 22:57, It feels good to be working on javascript again and working on FCC stuff   
