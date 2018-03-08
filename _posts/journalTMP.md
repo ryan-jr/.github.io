@@ -1,4 +1,0 @@
-### 2018-03-04 20:35, Finally  
-After ~1 month of work, hours of trial and error, and endless frustration, roadblocks, and setbacks, I've finally completed the letter/email writer I set out to build in Python 
-FeelsGood.jpg 
-ECHO is off.
