@@ -1,3 +1,0 @@
-### 2018-04-08 13:18, Learned a ton at Sunhacks and super happy with my team and our presentation  
-Learned about good team communication practices, planning, and how to change project scope. 
-ECHO is off.
