@@ -1,1 +1,0 @@
-### 2018-04-10 16:50, I keep thinking Waaaayyyyyy too much about the Iron Man movies, and how they've influenced my love/disposition toward tech.   
