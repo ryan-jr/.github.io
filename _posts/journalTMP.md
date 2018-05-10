@@ -1,3 +1,0 @@
-### 2018-05-08 21:33, Today I learned that Javascript's eval is an AWESOME function since I was orginally going to parse through the array that I was throwing things into, but luckily eval handles all of converting strings to a final calculation.  
-Now I just need to update the HTML window 
-ECHO is off.
