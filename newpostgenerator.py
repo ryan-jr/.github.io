@@ -17,7 +17,7 @@ newFile.write("title: " + posttitle + " \n")
 newFile.write("date: " + timestamp + "\n")
 newFile.write("author: techenomics1\n")
 newFile.write("comments: true\n")
-newFile.write("categories: [Uncategorized]")
+newFile.write("categories: [Uncategorized]\n")
 newFile.write("---\n")
 
 newFile.close()
