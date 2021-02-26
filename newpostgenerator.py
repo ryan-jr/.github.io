@@ -1,6 +1,8 @@
 # Creating a Jekyll post template in Python
 
 from datetime import datetime
+import pyperclip
+import os
 
 #Creating the time variable to reference in the post
 t = datetime.now()
@@ -21,3 +23,6 @@ newFile.write("categories: [Uncategorized]\n")
 newFile.write("---\n")
 
 newFile.close()
+#pyperclip.copy(timestamp + posttitle + ".md")
+osCommandString = "notepad.exe" + " " + timestamp + posttitle + ".md"
+os.system(osCommandString)
